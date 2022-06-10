@@ -1,10 +1,11 @@
-{ 
-  "posts":
-  [
-  { "id": 1, "text": "NEW i should throw garbige" },
-    { "id": 2, "text": "NEW #Cut my hair" },
-    { "id" 3, "text": "NEW go for a #walk" },
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
-  "profile":{"name":"typicode"}
-
+  "profile": {
+    "name": "typicode"
+  }
 }
